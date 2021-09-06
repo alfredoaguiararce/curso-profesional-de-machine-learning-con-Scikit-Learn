@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
  
 # Importamos los módulos específicos
  
-from sklearn.decomposition import kernelPCA
+from sklearn.decomposition import KernelPCA
 
 from sklearn.linear_model import LogisticRegression
  
